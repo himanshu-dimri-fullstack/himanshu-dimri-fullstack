@@ -41,12 +41,12 @@
 ## Featured Projects  
 
 ### Flipkart Clone  
-- Developed a responsive eCommerce UI using React and Tailwind CSS  
-- Built and consumed REST APIs using json-server (mock backend) 
-- Implemented dynamic product detail pages using React Router params 
-- Implemented Add to Cart functionality using React Context API for state management  
-- Implemented user authentication (Login/Signup) using json-server (mock API) and React Context API for state management
-- Fetched and rendered product data dynamically from json-server (mock backend) APIs 
+- Responsive UI built with React (Vite) and Tailwind CSS
+- Built and consumed REST APIs using json-server (mock backend)  
+- Dynamic product detail pages using React Router params and API-driven data  
+- Add to Cart functionality using React Context API for global state management  
+- User authentication (Login/Signup) using json-server (mock API) and Context API  
+- Product data fetching and rendering from backend APIs  
 
 Live: https://flipkart-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react  
@@ -74,19 +74,11 @@ Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react
 
 ## Connect With Me  
 
-- 📧 Email: himanshudimrifullstack@gmail.com 
+-  Email: himanshudimrifullstack@gmail.com 
 
 ---
 
-## Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/himanshu-dimri-fullstack/himanshu-dimri-fullstack/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🔥 Quote  
+## Quote  
 
 💡 *"I don’t just write code, I build experiences."*  
 
