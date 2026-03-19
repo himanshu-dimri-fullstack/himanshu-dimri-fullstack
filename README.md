@@ -48,9 +48,10 @@
 - User authentication (Login/Signup) using json-server (mock API) and Context API  
 - Product data fetching and rendering from backend APIs  
 
-Live: https://flipkart-clone-in-react-vite.vercel.app 
-Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react  
-⚠️ Note: Backend is hosted on Render (free tier), so initial request may take a few seconds due to cold start.
+## Note: Backend is hosted on Render (free tier), so initial request may take a few seconds due to cold start.
+## Live: https://flipkart-clone-in-react-vite.vercel.app 
+## Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react  
+
 
 
 ## GitHub Stats  
