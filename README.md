@@ -41,10 +41,12 @@
 ## Featured Projects  
 
 ### Flipkart Clone  
-- Responsive UI + json-server integration  
-- Dynamic product pages
-- Add to cart functionality
-- Login signup functionality
+- Developed a responsive eCommerce UI using React and Tailwind CSS  
+- Built and consumed REST APIs using json-server (mock backend) 
+- Implemented dynamic product detail pages using React Router params 
+- Implemented Add to Cart functionality using React Context API for state management  
+- Implemented user authentication (Login/Signup) using json-server (mock API) and React Context API for state management
+- Fetched and rendered product data dynamically from json-server (mock backend) APIs 
 
 Live: https://flipkart-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react  
