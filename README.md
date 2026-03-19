@@ -50,6 +50,7 @@
 
 Live: https://flipkart-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react  
+⚠️ Note: Backend is hosted on Render (free tier), so initial request may take a few seconds due to cold start.
 
 
 ## GitHub Stats  
