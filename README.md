@@ -41,34 +41,27 @@
 ## Featured Projects  
 
 ### Amazon Clone  
-- Responsive UI built with React (Vite) and Tailwind CSS
-- Built and consumed REST APIs using json-server (mock backend)  
-- Dynamic product detail pages using React Router params and API-driven data  
-- Add to Cart functionality using React Context API for global state management  
-- User authentication (Login/Signup) using json-server (mock API) and Context API  
-- Product data fetching and rendering from backend APIs  
-
-## Note
-- Backend is hosted on Render (free tier), so initial request may take a few seconds due to cold start.
+- Built a responsive UI using React (Vite) and Tailwind CSS
+- Developed and consumed RESTful APIs using a JSON-based backend (deployed on Vercel)
+- Implemented dynamic product detail pages with React Router params and API-driven data
+- Created Add to Cart functionality using React Context API for global state management
+- Implemented user authentication (Login/Signup) using Context API (temporary/mock, since backend is read-only)
+- Fetched and rendered product data from deployed backend APIs 
   
 Live: https://amazon-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/amazon-clone-in-react
 
 
 ### Flipkart Clone  
-- Responsive UI built with React (Vite) and Tailwind CSS
-- Built and consumed REST APIs using json-server (mock backend)  
-- Dynamic product detail pages using React Router params and API-driven data  
-- Add to Cart functionality using React Context API for global state management  
-- User authentication (Login/Signup) using json-server (mock API) and Context API  
-- Product data fetching and rendering from backend APIs  
-
-## Note
-- Backend is hosted on Render (free tier), so initial request may take a few seconds due to cold start.
+- Built a responsive UI using React (Vite) and Tailwind CSS
+- Developed and consumed RESTful APIs using a JSON-based backend (deployed on Vercel)
+- Implemented dynamic product detail pages with React Router params and API-driven data
+- Created Add to Cart functionality using React Context API for global state management
+- Implemented user authentication (Login/Signup) using Context API (temporary/mock, since backend is read-only)
+- Fetched and rendered product data from deployed backend APIs 
   
 Live: https://flipkart-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react  
-
 
 
 ## GitHub Stats  
