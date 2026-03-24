@@ -43,10 +43,13 @@
 ### Amazon Clone  
 - Built a responsive UI using React (Vite) and Tailwind CSS
 - Developed and consumed RESTful APIs using a JSON-based backend (deployed on Vercel)
+- Fetched and rendered product data from deployed backend APIs 
 - Implemented dynamic product detail pages with React Router params and API-driven data
 - Created Add to Cart functionality using React Context API for global state management
-- Implemented user authentication (Login/Signup) using Context API (temporary/mock, since backend is read-only)
-- Fetched and rendered product data from deployed backend APIs 
+- Implemented user authentication using Context API (login works with mock data; signup not supported due to read-only backend on Vercel)
+- Demo Credentials for login:
+  Email: himanshudimrifullstack@gmail.com
+  Password: 123456
   
 Live: https://amazon-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/amazon-clone-in-react
@@ -55,10 +58,13 @@ Repo: https://github.com/himanshu-dimri-fullstack/amazon-clone-in-react
 ### Flipkart Clone  
 - Built a responsive UI using React (Vite) and Tailwind CSS
 - Developed and consumed RESTful APIs using a JSON-based backend (deployed on Vercel)
+- Fetched and rendered product data from deployed backend APIs 
 - Implemented dynamic product detail pages with React Router params and API-driven data
 - Created Add to Cart functionality using React Context API for global state management
-- Implemented user authentication (Login/Signup) using Context API (temporary/mock, since backend is read-only)
-- Fetched and rendered product data from deployed backend APIs 
+- Implemented user authentication using Context API (login works with mock data; signup not supported due to read-only backend on Vercel)
+- Demo Credentials for login:
+  Email: himanshudimrifullstack@gmail.com
+  Password: 123456
   
 Live: https://flipkart-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react  
