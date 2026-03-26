@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Himanshu Dimri</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Enthusiast</h3>
+<h1 align="center">Hi, I'm 𝐇𝐢𝐦𝐚𝐧𝐬𝐡𝐮 𝐃𝐢𝐦𝐫𝐢</h1>
+<h3 align="center"><b>MERN Stack Developer | Full Stack Enthusiast</b></h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Apps;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&font=Fira+Code&weight=700&lines=React+%7C+Node+%7C+Express+%7C+MongoDB;Building+Scalable+Apps;Always+Learning+New+Things" />
 </p>
 
 ---
