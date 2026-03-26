@@ -97,8 +97,4 @@ Repo: https://github.com/himanshu-dimri-fullstack/flipkart-clone-in-react
 
 ## Quote  
 
-💡 *"I don’t just write code, I build experiences."*  
-
----
-
-⭐ **If you like my work, give a star to my repositories!**
+💡 **"I don’t just write code, I build experiences."** 
