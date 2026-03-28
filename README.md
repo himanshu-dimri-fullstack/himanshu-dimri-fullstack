@@ -35,6 +35,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
 ## Featured Projects  
@@ -53,11 +54,9 @@
 Live: https://amazon-clone-in-react-vite.vercel.app 
 Repo: https://github.com/himanshu-dimri-fullstack/amazon-clone-in-react  
 
-## GitHub Stats  
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-dimri-fullstack&show_icons=true&theme=radical" />
-</p>
+## GitHub Stats  
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=himanshu-dimri-fullstack&theme=radical" />
