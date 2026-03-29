@@ -55,12 +55,12 @@ Live: https://amazon-clone-in-react-vite.vercel.app
 Repo: https://github.com/himanshu-dimri-fullstack/amazon-clone-in-react  
 
 ### Quality Shop E-commerce 
--Built a responsive UI using React (Vite) and Tailwind CSS
--Used local data files (categoryData.js, subcategoryData.js, productData.js, loginData.js)
--Implemented dynamic product detail pages using React Router params
--Created Add to Cart functionality using React Context API
--Implemented basic user login (mock) using Context API
--Managed product data locally without any external API
+- Built a responsive UI using React (Vite) and Tailwind CSS
+- Used local data files (categoryData.js, subcategoryData.js, productData.js, loginData.js)
+- Implemented dynamic product detail pages using React Router params
+- Created Add to Cart functionality using React Context API
+- Implemented basic user login (mock) using Context API
+- Managed product data locally without any external API
 
 - Demo Credentials for login:
   Email: himanshudimri@gmail.com
